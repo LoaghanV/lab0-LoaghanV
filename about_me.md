@@ -4,7 +4,7 @@ Replace each `...` below with your own answer, then save the file. You'll use th
 to practise the git workflow in Lab 01.
 
 - **Name:** Loaghan Vivares
-- **Program:** Intro To Comp Sci
+- **Program:** Intro To Computer Science
 - **My GitHub username:** LoaghanV
 
 The Lab 01 quiz on Canvas asks the rest (why you're taking the course, how the lab went).
